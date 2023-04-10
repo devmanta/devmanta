@@ -1,14 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20HeeJin%27s%20Github&fontSize=50&animation=twinkling&text-color=black)
 
+
 <p align="center">Hi There! I'm a Server developer.</p>
 <p align="center">My main skills are Java, Spring.</p>
 <p align="center">I am a developer that continues to grow in the future. 💪🔥</p>
 
-<br />
-<br />
+#
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmanta&layout=compact&theme=buefy)
+
+</div>
+
+#
 
 <h3 align="center">❤️ My Favorites ❤️</h3>
-<p align="center">💪Exercise,&nbsp;&nbsp; ⚽Soccer,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🐶Puppys,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;</p>
+<p align="center">⚽Soccer,&nbsp;&nbsp;🤿Water Sports,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🐶Puppys,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;</p>
 
 <br />
 <br />
@@ -33,7 +40,5 @@
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmanta&layout=compact&theme=buefy)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
