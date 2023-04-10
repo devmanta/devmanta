@@ -6,9 +6,7 @@
 <p align="center">I am a developer that continues to grow in the future. 💪🔥</p>
 
 <br />
-<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmanta&layout=compact&theme=buefy)
-</div>
 
 <br />
 <br />
