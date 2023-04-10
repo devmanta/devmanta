@@ -1,12 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20HeeJin%27s%20Github&fontSize=50&animation=twinkling&text-color=black)
 
-
 <p align="center">Hi There! I'm a Server developer.</p>
 <p align="center">My main skills are Java, Spring.</p>
 <p align="center">I am a developer that continues to grow in the future. 💪🔥</p>
-
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmanta&layout=compact&theme=buefy)
 
 <br />
 <br />
@@ -38,5 +34,6 @@
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmanta&layout=compact&theme=buefy)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
