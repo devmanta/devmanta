@@ -18,8 +18,10 @@
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmanta&layout=compact&theme=buefy)
 
+<div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmanta&layout=compact&theme=buefy)
+</div>
 <!--
 **devmanta/devmanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
