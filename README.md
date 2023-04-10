@@ -6,6 +6,7 @@
 <p align="center">I am a developer that continues to grow in the future. 💪🔥</p>
 
 #
+<h3 align="center">✏️ GitHub Summary </h3>
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmanta&layout=compact&theme=buefy)
@@ -14,13 +15,13 @@
 
 #
 
-<h3 align="center">❤️ My Favorites ❤️</h3>
+<h3 align="center">❤️ My Favorites </h3>
 <p align="center">⚽Soccer,&nbsp;&nbsp;🤿Water Sports,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🐶Puppys,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;</p>
 
 <br />
 <br />
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<h3 align="center"><b>🛠 Tech Stack </b></h3>
 <div align="center">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
