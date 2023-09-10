@@ -16,7 +16,7 @@
 #
 
 <h3 align="center">❤️ My Favorites </h3>
-<p align="center">⚽Soccer,&nbsp;&nbsp;🤿Water Sports,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🐶Puppys,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;</p>
+<p align="center">⚽Soccer,&nbsp;&nbsp;🤿Water Sports,&nbsp;&nbsp;🎾Tennis,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🐶Puppys,&nbsp;&nbsp;✈️Trip,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;</p>
 
 <br />
 <br />
